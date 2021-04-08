@@ -1,16 +1,12 @@
-### Hi there 👋
+### Oi, meu nome é Malcoln 👋 [<img align="right" alt="Malcoln Dandaro | LinkedIn" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+Eu sou um Analista de Sistemas, pós-graduado em Big Data, que está aprimorando diariamente seus conhecimentos em engenharia de dados.
+## Skills & Tecnologias  
+<img align="left" alt="Python" widht="150px"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+<img align="left" alt="Oracle" widht="150px"  src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> 
+<img align="left" alt="Flask" widht="150px"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <br />
+<img align="left" alt="Docker" widht="150px"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> </br >
+<img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" />
 
-<!--
-**malcolndandaro/malcolndandaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/malcolndandaro/
