@@ -3,9 +3,9 @@ Eu sou um Analista de Sistemas, pós-graduado em Big Data, que está aprimorando
 ## Skills & Tecnologias  
 <img align="left" alt="Python" widht="150px"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
 <img align="left" alt="Oracle" widht="150px"  src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> 
-<img align="left" alt="Flask" widht="150px"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <br />
+<img align="left" alt="Flask" widht="150px"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
 <img align="left" alt="Docker" widht="150px"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> </br >
+<img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> 
 <img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" />
 
 
