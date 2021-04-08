@@ -6,7 +6,7 @@ Eu sou um Analista de Sistemas, pós-graduado em Big Data, que está aprimorando
 <img align="left" alt="Flask" widht="150px"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
 <img align="left" alt="Docker" widht="150px"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> 
-<img align="left" alt="MongoDB" widht="150px"  src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" />
+<img align="left" alt="Airflow" widht="150px"  src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" />
 
 
 [linkedin]: https://www.linkedin.com/in/malcolndandaro/
