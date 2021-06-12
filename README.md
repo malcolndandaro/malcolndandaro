@@ -9,6 +9,6 @@ Analista de Sistemas, pós-graduado em Big Data, que está aprimorando diariamen
 <img align="left" alt="Airflow" widht="150px"  src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white"/>
 <br/>
 <br/>
-<img align="left" alt="Azure DP-900" widht="200px" height="200px" src="https://github.com/malcolndandaro/malcolndandaro/blob/main/img/azure-data-fundamental.png" />    
+<a href = 'https://www.credly.com/badges/a71fa781-177f-478c-aabb-1f37b4dded96?source=linked_in_profile'><img align="left" alt="Azure DP-900" widht="200px" height="200px" src="https://github.com/malcolndandaro/malcolndandaro/blob/main/img/azure-data-fundamental.png" /> </a>
 
 [linkedin]: https://www.linkedin.com/in/malcolndandaro/
