@@ -1,5 +1,5 @@
 ### Oi, eu sou o Malcoln 👋 [<img align="right" alt="Malcoln Dandaro | LinkedIn" width="150px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-Analista de Sistemas, pós-graduado em Big Data, que está aprimorando diariamente seus conhecimentos em engenharia de dados.
+Engenheiro de dados, pós-graduado em Big Data, Microsoft Certified: Azure Data Engineer.
 ## Skills & Tecnologias  
 <img align="left" alt="Python" widht="150px"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img align="left" alt="Oracle" widht="150px"  src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/> 
