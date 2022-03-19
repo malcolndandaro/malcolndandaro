@@ -6,7 +6,6 @@ Engenheiro de dados, pós-graduado em Big Data.
 <img align="left" alt="Spark" widht="150px"  src="https://img.shields.io/badge/Apache_Spark-DADADA?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
 <img align="left" alt="Python" widht="150px"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img align="left" alt="Docker" widht="150px"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="SQL Server" widht="150px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <br/>
 
 ## Certificações  
