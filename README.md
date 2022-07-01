@@ -8,7 +8,8 @@ Engenheiro de dados, pós-graduado em Big Data.
 <img align="left" alt="Docker" widht="150px"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <br/>
 
-## Certificações  
+## Certificações
+<a href = 'https://www.credly.com/badges/29134bfa-90c0-4b97-bd22-9e2039b7d1ed'><img align="left" alt="Azure AZ-305" widht="200px" height="200px" src="https://github.com/malcolndandaro/malcolndandaro/blob/main/img/azure-solutions-architect-expert-600x600.png" /> </a>
 <a href = 'https://www.credly.com/badges/a1798d8a-5724-454d-ac0d-779107cd3ae4'><img align="left" alt="Azure AZ-104" widht="200px" height="200px" src="https://github.com/malcolndandaro/malcolndandaro/blob/main/img/azure-administrator-associate-600x600.png" /> </a>
 <a href = 'https://www.credly.com/badges/a4e94ba5-24a7-4fbc-9579-9c74abcb4e51'><img align="left" alt="Azure DP-203" widht="200px" height="200px" src="https://github.com/malcolndandaro/malcolndandaro/blob/main/img/azure-data-engineer-associate-600x600.png" /> </a>
 <a href = 'https://www.credly.com/badges/a71fa781-177f-478c-aabb-1f37b4dded96?source=linked_in_profile'><img align="left" alt="Azure DP-900" widht="200px" height="200px" src="https://github.com/malcolndandaro/malcolndandaro/blob/main/img/azure-data-fundamental.png" /> </a>
